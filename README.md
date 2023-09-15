@@ -1,8 +1,6 @@
 # Cocos Creator Google Admob Extension
 
-![cocos icon](./extensions/GoogleAdMob/doc/img/cocos.png)
-
-![google admob icon](./extensions/GoogleAdMob/doc/img/admob-icon.png)
+![cocos icon](./extensions/GoogleAdMob/doc/img/cocos.png) ![google admob icon](./extensions/GoogleAdMob/doc/img/admob-icon.png)
 
 本插件是为了方便用户快速使用 Cocos Creator 接入谷歌 Admob 平台而设计。
 

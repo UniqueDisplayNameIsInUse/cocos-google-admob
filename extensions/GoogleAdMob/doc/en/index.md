@@ -20,3 +20,15 @@ To integrate to the iOS platform, please refer to [iOS Integrate Guide](./ios/in
 - Rewarded
 - RewardedInterstitial
 - Native
+
+## Update Logs
+
+- v1.0.0(released on 2023-08-28)
+  - Integrate with the Android platform
+- v1.0.1(released on 2023-09-15)
+  - Add:
+    - Integrate with the iOS platform
+  - Fixed:
+    - Fixed an error when sending the onAdFailedToShowFullScreenContent event
+    - Added a new full-screen-callback to the rewardedInterstitial Ad.
+    - Fixed the missing NativeAdListenerNTF issue.
