@@ -32,4 +32,6 @@ iOS 接入指南移步 [iOS 接入指南](./ios/index.md)。
     - 修复 onAdFailedToShowFullScreenContent 事件发送错误
     - rewardedInterstitial Ad 增加了全屏的安卓接口
     - NativeAdListenerNTF 丢失的问题。
-  
+- v1.0.2(2023-9-19 发布)
+  - 更新至最新的 SKAdNetworkItems.
+  - 修复 banner ad 的渲染错误  
